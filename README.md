@@ -7,7 +7,6 @@ Coinpaprika API delivers precise & frequently updated market data from the world
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -36,6 +35,8 @@ Coinpaprika API delivers precise & frequently updated market data from the world
 
 ## Screenshots
 [![Example screenshot](./img/screenshot.png)](https://raw.githubusercontent.com/ozakeri/CryptocurrencyApp/main/app/Screenshot1.jpg)
+[![Example screenshot](./img/screenshot.png)](https://raw.githubusercontent.com/ozakeri/CryptocurrencyApp/main/app/Screenshot2.jpg)
+[![Example screenshot](./img/screenshot.png)](https://raw.githubusercontent.com/ozakeri/CryptocurrencyApp/main/app/Screenshot3.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
