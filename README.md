@@ -55,7 +55,7 @@ https://api.coinpaprika.com/v1/coins/...
 
 
 ## Contact
-Created by [@ozakeri](omidzakeri22@gmail.com) - feel free to contact me!
+Created by [@ozakeri](https://ozakeri.github.io/) - feel free to contact me!
 
 
 <!-- Optional -->
