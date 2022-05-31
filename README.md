@@ -1,9 +1,9 @@
 # CryptocurrencyApp
-CryptocurrencyApp
 
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+Coinpaprika API delivers precise & frequently updated market data from the world of crypto: coin prices, volumes, market caps, ATHs, return rates and more.
+
+
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -19,28 +19,23 @@ CryptocurrencyApp
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- Coinpaprika API delivers precise & frequently updated market data from the world of crypto: coin prices, volumes, market caps, ATHs, return rates and more.
+- This application is more for displaying and analyzing currency data
+- My goal in doing this project was to work with currency data
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
+- MVVM Architecture
+- Clean Architecture
+- Dagger Hilt
+- Jetpack Compose
+- Coroutin
+- Flow
+- Retrofit
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+[![Example screenshot](./img/screenshot.png)](https://raw.githubusercontent.com/ozakeri/CryptocurrencyApp/main/app/Screenshot1.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
